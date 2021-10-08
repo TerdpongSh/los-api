@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "los-api", "los-api\los-api.csproj", "{0234448E-EC85-4079-800A-A589361F52CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0234448E-EC85-4079-800A-A589361F52CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0234448E-EC85-4079-800A-A589361F52CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0234448E-EC85-4079-800A-A589361F52CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0234448E-EC85-4079-800A-A589361F52CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21822611-BD9E-4A3F-B475-48FE1ACCE757}
+	EndGlobalSection
+EndGlobal
